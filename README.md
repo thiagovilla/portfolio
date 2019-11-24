@@ -8,7 +8,7 @@ Folder structure:
 * `apps` - My apps, big and small (as submodules)
 * `labs` - Step-by-step labs, each step in a ~branch~ subfolder
 * `models` - Data models & JSON schemas for common objects
-* `sandbox` - Where I let loose the Shiny Object Syndrome
+* `sandbox` - Where I play around with new tech, libs etc.
 * `snippets` - Assorted code snippets, several applications
 * `websites` - Some websites I manage or made (submodules)
 
