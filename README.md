@@ -12,4 +12,8 @@ Folder structure:
 * `snippets` - Assorted code snippets, several applications
 * `websites` - Some websites I manage or made (submodules)
 
+## Components
+
+[Autocomplete w/ highlight](https://codesandbox.io/s/material-ui-autocomplete-highlight-vj4fj?fontsize=14&hidenavigation=1&theme=dark) - uses `react`, `material-ui`, `<Autocomplete>`, `autossugest-highlight`
+
 Made with ❤️ from 🇧🇷
